@@ -29,7 +29,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, a passionate self-taught full stack 
  <a href="https://www.reddit.com/user/LoopyBada" target="_blank">
   <img alt="Reddit URL" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
  </a>
- <a href="www.linkedin.com/in/cswanigasooriya" target="_blank">
+ <a href="https://www.linkedin.com/in/cswanigasooriya" target="_blank">
   <img alt="Linedin URL" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
   <a href="https://www.quora.com/profile/Chamath-Wanigasooriya" target="_blank">
