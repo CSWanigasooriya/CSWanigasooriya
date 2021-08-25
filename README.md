@@ -9,7 +9,7 @@ Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer
  <img alt="Instagram URL" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.hackerrank.com/CSWanigasooriya" target="_blank">
- <img alt="Hackerrank URL" src="https://www.hackerrank.com/CSWanigasooriya">
+ <img alt="Hackerrank URL" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 
 <p align="center">
