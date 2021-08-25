@@ -15,6 +15,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 -->
 
 <br>
+<hr>
 
 <p align="center">
  <a href="https://www.facebook.com/cswanigasooriya" target="_blank">
