@@ -13,8 +13,11 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 - 📫 How to reach me: ... 
 - 😄 Pronouns: He
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&show_icons=true&theme=city_lights)
 <br>
 <hr>
 
