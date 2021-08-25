@@ -14,6 +14,8 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, a passionate self-taught full stack 
 - 😄 Pronouns: He
 -->
 
+<br>
+
 <p align="center">
  <a href="https://www.facebook.com/cswanigasooriya" target="_blank">
   <img alt="Facebook URL" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
