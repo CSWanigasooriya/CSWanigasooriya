@@ -1,6 +1,6 @@
 ### Hi there, I'm Chamath Wanigasooriya 👋
 
-Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer and a freelance software engineer from Sri Lanka. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
+Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer and a freelance software engineer from Sri Lanka :sri_lanka:	. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
 
 - 🔭 I’m currently working on an online ecommerce platform development.
 - 🌱 I’m currently learning React Native.
