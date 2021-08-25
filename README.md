@@ -1,5 +1,7 @@
 ### Hi there, I'm Chamath Wanigasooriya 👋
 
+Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer and a freelance software engineer from Sri Lanka. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
+
 <!-- 
 **CSWanigasooriya/CSWanigasooriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
