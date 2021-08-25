@@ -19,7 +19,7 @@ Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer
   <img alt="Linedin URL" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
   <a href="https://www.quora.com/profile/Chamath-Wanigasooriya" target="_blank">
-  <img alt="Quora URL" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Quora URL" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">
  </a>
 </p>
 
