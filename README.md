@@ -15,7 +15,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 -->
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&show_icons=true&theme=city_lights)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=city_lights)
 <br>
 <hr>
 
