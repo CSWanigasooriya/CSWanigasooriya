@@ -14,7 +14,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 - 😄 Pronouns: He
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&count_private=true&include_all_commits=true&custom_title=All_Stats&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&count_private=true&include_all_commits=true&custom_title=All Stats&show_icons=true&theme=github_dark)
 
 <hr>
 
