@@ -2,9 +2,9 @@
 
 Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer and a freelance software engineer from Sri Lanka. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
 
-<p align="center">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</p>
+<a href="https://www.facebook.com/cswanigasooriya/" rel="nofollow">
+  <img alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/cswanigasooriya/" style="max-width:100%;">
+</a>
 
 <p align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSWanigasooriya?style=social">
