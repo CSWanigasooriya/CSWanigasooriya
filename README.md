@@ -2,9 +2,9 @@
 
 Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate self-motivated full stack web developer and a freelance software engineer from Sri Lanka <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c5ecc0649ee106e3dc5a478974e15747947687b7644b0eaa91d7b32f20a1f56e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61332f416e696d617465642d466c61672d5372692d4c616e6b612e676966"><img src="https://camo.githubusercontent.com/c5ecc0649ee106e3dc5a478974e15747947687b7644b0eaa91d7b32f20a1f56e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61332f416e696d617465642d466c61672d5372692d4c616e6b612e676966" width="30px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" style="max-width:100%;"></a>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
 
-+🔭 I’m currently working on an online ecommerce platform development.
-+🌱 I’m currently learning React Native.
-+⚡ Fun fact: I'm good at speed solving. 
+-🔭 I’m currently working on an online ecommerce platform development.
+-🌱 I’m currently learning React Native.
+-⚡ Fun fact: I'm good at speed solving. 
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
