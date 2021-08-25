@@ -6,7 +6,10 @@ Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer
  <img alt="Facebook URL" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.instagram.com/chum_at/" target="_blank">
- <img alt="Facebook URL" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <img alt="Instagram URL" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.hackerrank.com/CSWanigasooriya" target="_blank">
+ <img alt="Hackerrank URL" src="https://www.hackerrank.com/CSWanigasooriya">
 </a>
 
 <p align="center">
