@@ -11,6 +11,9 @@ Hi, I'm Chamath Wanigasooriya, a passionate self-taught full stack web developer
 <a href="https://www.hackerrank.com/CSWanigasooriya" target="_blank">
  <img alt="Hackerrank URL" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
+<a href="https://www.reddit.com/user/LoopyBada" target="_blank">
+ <img alt="Hackerrank URL" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+</a>
 
 <p align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSWanigasooriya?style=social">
