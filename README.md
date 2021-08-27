@@ -15,17 +15,9 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 -->
 
 <p>
-    <a href="https://github.com/CSWanigasooriya/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_title=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
-    <a href="https://github.com/CSWanigasooriya/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_title=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
 </p>
-
-<!--  ![Chamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&count_private=true&include_all_commits=true&custom_title=All%20Stats&show_icons=true&theme=github_dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&theme=github_dark&layout=compact)](https://github.com/CSWanigasooriya/github-readme-stats) -->
-
-
-
 
 <hr>
 
