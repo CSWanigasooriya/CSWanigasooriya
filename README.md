@@ -19,22 +19,22 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 <hr>
 
 <p align="center">
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img  data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/officel/40/000000/php-logo.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/react-native.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/android-studio--v3.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/flutter.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/dart.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/firebase.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/flutter.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dart.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/firebase.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"         width="48" height="48" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"><img data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width:100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" style="max-width:100%;"></a> 
 </p>
 
 <p align="center">
