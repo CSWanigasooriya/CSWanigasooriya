@@ -16,7 +16,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 
 <p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&count_private=true&include_all_commits=true&custom_title=All%20Stats&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&count_private=true&include_all_commits=true&custom_title=All%20Stats&layout=compact&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
