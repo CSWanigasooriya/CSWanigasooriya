@@ -19,6 +19,11 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
     <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
 </p>
 
+<p align="center">
+    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&repo=urms;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
+</p>
+
+
 <hr>
 
 <p align="center">
