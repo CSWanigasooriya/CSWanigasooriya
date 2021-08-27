@@ -16,7 +16,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 
 <p>
 <a href="https://github.com/CSWanigasooriya/github-readme-stats">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&show_icons=true&count_private=true&theme=github_dark)
+ ![Chamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark&count_private=true)
 </a>
 <a href="https://github.com/CSWanigasooriya/github-readme-stats">
           
