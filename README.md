@@ -72,3 +72,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CSWanigasooriya?style=social">
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC_vSbWEDo5bZPGNFi_9VpOQ?style=social">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSWanigasooriya"/>
+</p>
