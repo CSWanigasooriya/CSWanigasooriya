@@ -21,7 +21,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 </p>
 
 <p align="center">
-    <a><img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;"></a>
+    <a><img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark&compact=true" style="max-width:100%;"></a>
     <a><img src="https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=blue-grey" style="max-width:100%;"></a>
 </p>
 
