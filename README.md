@@ -75,5 +75,4 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 <p align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSWanigasooriya?style=social">
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CSWanigasooriya?style=social">
- <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC_vSbWEDo5bZPGNFi_9VpOQ?style=social">
 </p>
