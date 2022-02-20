@@ -5,17 +5,20 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 🔭 I’m currently working on an online ecommerce platform development.</br>
 🌱 I’m currently learning Jetpack Compose.</br>
 ⚡ Fun fact: I'm good at speed solving.</br>
+📫 How to reach me: chamathwanigasooriya@gmail.com</br>
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ... 
 - 😄 Pronouns: He
 -->
 
 <p align="center">
     <a><img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;"></a>
+</p>
+
+<p align="center">
     <a><img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;custom_title=Statistics&amp;include_all_commits=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;&langs_count=20&amp;bg_color=0D1117" style="max-width:100%;">
  </a>
