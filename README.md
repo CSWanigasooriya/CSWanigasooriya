@@ -25,7 +25,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 </p>
 
 <p align="center">
-    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=tensorflowApp&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=tensorApp&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=vimbal&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
 </p>
 
