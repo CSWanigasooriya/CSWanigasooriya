@@ -20,7 +20,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
  </a>
 </p>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8768899)](https://stackoverflow.com/users/8768899/chamath-wanigasooriya)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8768899?theme=dark)](https://stackoverflow.com/users/8768899/chamath-wanigasooriya)
 
 <!-- <p align="center">
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=urms&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
