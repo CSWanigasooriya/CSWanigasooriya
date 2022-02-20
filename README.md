@@ -76,5 +76,5 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 
 <hr>
 <p align="center">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark&layout=compact" style="max-width:100%;">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;">
 </p>
