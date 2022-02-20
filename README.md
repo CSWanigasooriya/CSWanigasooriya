@@ -20,13 +20,9 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
  </a>
 </p>
 
-[![Chamath Wanigasooriya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark)](https://stackoverflow.com/users/8768899/chamath-wanigasooriya)
-
-[![Chamath Wanigasooriya Medium](https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=grey)](https://medium.com/@chamathwanigasooriya)
-
 <p align="center">
     <a><img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;"></a>
-    <a><img src="https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=grey" style="max-width:100%;"></a>
+    <a><img src="https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=blue-grey" style="max-width:100%;"></a>
 </p>
 
 <p align="center">
