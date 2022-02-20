@@ -23,7 +23,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 
 [![Chamath Wanigasooriya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark)](https://stackoverflow.com/users/8768899/chamath-wanigasooriya)
 
-[![Chamath Wanigasooriya Medium](https://github-readme-medium.vercel.app/?username=chamathwanigasooriya)](https://medium.com/@chamathwanigasooriya)
+[![Chamath Wanigasooriya Medium](https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=grey)](https://medium.com/@chamathwanigasooriya)
 
 
 
