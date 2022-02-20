@@ -21,9 +21,6 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 </p>
 
 <p align="center">
-</p>
-
-<p align="center">
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=urms&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=vimbal&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
 </p>
@@ -77,5 +74,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC_vSbWEDo5bZPGNFi_9VpOQ?style=social">
 </p>
 
- <img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark&layout=compact" style="max-width:100%;">
- <img src="https://github-readme-medium.vercel.app/?username=chamathwanigasooriya&bg=blue-grey" style="max-width:100%;">
+<hr>
+<p align="center">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark&layout=compact" style="max-width:100%;">
+</p>
