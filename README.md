@@ -1,13 +1,13 @@
 ## Hi there, I'm Chamath Wanigasooriya <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
 
-Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate self-motivated full stack web developer and a freelance software engineer from Sri Lanka <a target="_blank" rel="noopener noreferrer"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" style="max-width:100%;"></a>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
+Hi, I'm <code>Chamath Wanigasooriya</code>, a software engineer who is a passionate self-motivated full stack web developer and a freelance software engineer from Sri Lanka <a target="_blank" rel="noopener noreferrer"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" style="max-width:100%;"></a>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
 
 🔭 I’m currently working on an online ecommerce platform development.</br>
 🌱 I’m currently learning Jetpack Compose.</br>
 ⚡ Fun fact: I'm good at speed solving.</br>
 📫 How to reach me: chamathwanigasooriya@gmail.com</br>
 
-<!-- 
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,20 +15,19 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 -->
 
 <p align="center">
-    <a><img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;"></a>
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=8768899&theme=dark" style="max-width:100%;">
 </p>
               
 <p align="center">
-    <a><img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;fetch_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;custom_title=Statistics&amp;include_all_commits=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;&langs_count=20&amp;bg_color=0D1117" style="max-width:100%;">
- </a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=CSWanigasooriya&theme=react-dark&area=true" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;fetch_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;custom_title=Statistics&amp;include_all_commits=true&amp;bg_color=0D1117" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;&langs_count=20&amp;bg_color=0D1117" style="max-width:100%;">
 </p>
 
 <p align="center">
-    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=tensorApp&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=vimbal&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;"></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=tensorApp&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWanigasooriya&amp;repo=vimbal&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width:100%;">
 </p>
-
 
 <hr>
 
@@ -73,6 +72,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, an undergraduate who is a passionate
 </p>
 
 <p align="center">
+ <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=CSWanigasooriya">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSWanigasooriya?style=social">
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CSWanigasooriya?style=social">
 </p>
