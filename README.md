@@ -15,7 +15,7 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, a software engineer who is a passion
 -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;fetch_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;custom_title=Statistics&amp;include_all_commits=true&amp;bg_color=0D1117" style="max-width:50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CSWanigasooriya&amp;show_icons=true&amp;count_private=true&amp;fetch_all_commits=true&amp;hide_border=true&amp;custom_title=Statistics&amp;include_all_commits=true&amp;bg_color=0D1117" style="max-width:50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSWanigasooriya&amp;count_private=true&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;&langs_count=20&amp;bg_color=0D1117" style="max-width:50%;"></p>
 
 
