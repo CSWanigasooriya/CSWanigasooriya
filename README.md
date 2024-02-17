@@ -70,7 +70,6 @@ Hi, I'm <code>Chamath Wanigasooriya</code>, a software engineer who is a passion
 </p>
 
 <p align="center">
- <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=CSWanigasooriya">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CSWanigasooriya?style=social">
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CSWanigasooriya?style=social">
 </p>
